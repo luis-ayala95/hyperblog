@@ -3,33 +3,22 @@ body
 {
 color: #333;
 text-align: center;
-<<<<<<< HEAD
+
 font-family: "Courier";
-=======
+
 font-family: "Arial";
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> cabecera
-=======
->>>>>>> cabecera
-=======
->>>>>>> cabecera
+
 font-size: 20px;
 margin: 0;
 padding: 0;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 #container 
 {
     width: 70%;
     padding: 1em;
-=======
-=======
->>>>>>> cabecera
-=======
->>>>>>> cabecera
+
+}
 #cabecera{
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(rgb(80, 79, 79), green, blue, alpha);
